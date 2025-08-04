@@ -1,3 +1,3 @@
-module github.com/ec61671/monkey
+module monkey
 
 go 1.22.2
